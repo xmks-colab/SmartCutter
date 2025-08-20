@@ -4,4 +4,4 @@
 Um programa pequeno, porém poderoso, para costurar e cortar webtoons/manhwa/manhua raws.
 
 # Créditos
-[MechTechnology](https://github.com/MechTechnology/SmartStitch) - 
+[MechTechnology](https://github.com/MechTechnology/SmartStitch)
