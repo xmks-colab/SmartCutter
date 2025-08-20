@@ -5,7 +5,7 @@ Um programa pequeno, porém poderoso, para costurar e cortar webtoons/manhwa/man
 [MechTechnology](https://github.com/MechTechnology/SmartStitch)
 
 
-# Modelo treinado
+# SmartCutter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xmks-colab/SmartCutter/blob/main/modelo.ipynb)
 
 
